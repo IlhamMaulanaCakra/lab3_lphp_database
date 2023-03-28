@@ -11,20 +11,20 @@
        <p><tr>
                <td>Nama</td>
                <td>:</td>
-               <td>M. AKMAL AL ABDILAH</td>
+               <td>Ilham Maulana Cakra Dwi Noto</td>
                <td>&nbsp;</td>
        </tr></p>
        <p><tr>
                <td>Nim</td>
                <td>:</td>
-               <td>312110034</td>
+               <td>312110027</td>
                <td>&nbsp;</td>
        </tr></p>
        </table>
 
 Assalam'mulaikum wr wb. <p> 
 
-Di tugas pratikum kali ini saya akan membagikan sedikit shering mengenai program php d  dasar CRUD menggunakan PHP dan xampp database, tanpa berlama lama lagi saya kan mesering foto hasil output dari coding hapus.php, index.php, koneksi.php, style.css, tambah.php, ubah php yang di jadikan satu kedalam file polder lab_3_phpdatabase  di bawah ini adalah poto gambarnnya.<p>
+Di tugas pratikum kali ini saya akan membagikan sedikit shering mengenai program php d  dasar CRUD menggunakan PHP dan xampp database, tanpa berlama lama lagi saya kan mesering foto hasil output dari coding hapus.php, index.php, koneksi.php, style.css, tambah.php, ubah php yang di jadikan satu kedalam file polder lab_3_phpdatabase  di bawah ini adalah foto gambarnnya.<p>
 
 # Tugas_Pratikum_3
 
@@ -34,7 +34,7 @@ Tampilan program di dekstop(komputer)<p>
 ![Gambar 3](screenshoot/3.JPG)
  
 
-Pasti kalian penasaran bagaimana cara membuatnya saya akan menjelaskan setep by stepnya, jadi bacalah sampai habis.<p>
+Beginilah setep by stepnya, jadi bacalah sampai habis.<p>
 
 1. Membuat database<p>
 Coding databasenya.<p>
@@ -45,15 +45,15 @@ Bagaimana cara memasukan coding databasenya pertama kalian install, xampp setela
 jika sudah kalian bisa mengklik gambar impor dan imporlah file latihan1.sql di file lab3_ph_database, jika kalin tidak mau ribet jika kalian mau belajar dari no kalian bisa mengikuti langkah-langkah berikut.<p>
 
 a. carilah kolom di menu data base tulis latihan1<p>
-b. pasukan code yang ada di poto atas coding database di menu SQL<P>
+b. masukan code yang ada di foto atas coding database di menu SQL<P>
 c. setelah itu kalian sudah punya databasenya<p>
 
-mukin penjelasan saya kurang dapat di mengerti kalian bisa mencari lagi di tempat lain<p>
+Mohon maaf apabila penjelasan saya tidak mudah dimengerti<p>
 
 2. Membuat polderbaru di menu xampp/htdocs/lab3_php_database<p>
 ![Gambar 6](screenshoot/6.JPG)
 
-3. Kalian bisa pindahkan file lab3_php_database di atas jika memang ga mau repot tapi saya akan jelsakan sedikit.<p>
+3. Kalian bisa pindahkan file lab3_php_database di atas.<p>
 
 a. file index.php<p>
 File ini memiliki beberapa fungsi penting, antara lain:
@@ -97,4 +97,4 @@ berikut di bawah ini adalah koding yang ada di file style.css<p>
 ![Gambar 23](screenshoot/23.JPG)
 ![Gambar 24](screenshoot/24.JPG)
 
-Oke terima kasih telah membaca hingga titik ini saya mohon maaf apabila kurang bisa menjelaskan lebit terperinci lagi sampai ketemu lagi assalam'mulaikum wr. wb.<p>
+Itu saja yang bisa saya jabarkan, Terima Kasih atas perhatiannya.<p>
